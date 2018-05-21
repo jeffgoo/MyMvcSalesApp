@@ -4,54 +4,16 @@ syntax: glob
 *.suo
 *.ncrunchproject
 *.ncrunchsolution
-Thumbs.db
-_UpgradeReport*
-UpgradeLog.*
-CIBuild.proj.*
 *.bak
 *.orig
-*.bin
-*.jfm
 bin
 obj
 Bin
 _NCrunch_*/*
 packages/*
-ScheduledTaskDBSync/ScheduledTaskDBSync/packages/*
-SportsWear/aspnet_client/system_web/
-FlexWidgetSearch/build
-FlexWidgetSearch/.*
-FlexWidgetSearch/html-template
 *_ReSharper*
-Sportswear/buildversion.txt
-SportsWear/Admin/Xbap/Application Files/*
-SportsWear/Admin/Xbap/PSTemplateProductDesigner.xbap
-Umbraco/media/
-SportsWear/Admin/buildversion.xml
 *.tmp
-Tools/Grunt/node_modules/
-Tests/Selenium/.*
-Tests/Selenium/psw-webtests.iml
-Tests/Selenium/target/*
-TestResults/*
-WebEssentials-Settings.json
-* - Backup.rdl
-Sportswear/media/*
-Tools/Grunt/logs/*
-!Tests/Load.Tests/JMeter.Test.Data
 **.ide/*
-syntax: regexp
-PrepLicensingMVC3/aspnet_client/system_web/
-
-doc/html/*
-doc/latex/*
 
 _NCrunch*
-Tools/Grunt/npm-debug.log
-
-Sportswear/node_modules
-SportsWear/bower_components
-*.ldf
-
-*.mdf
 .vs/*
